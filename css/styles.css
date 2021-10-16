@@ -1,0 +1,44 @@
+/*this is mobile*/
+
+body {
+  background-color: white;
+}
+.mobile-header {
+  background-color: #76e4eb;
+  height: 48px;
+  width: 428px;
+}
+.container {
+  max-width: 428px;
+  background-color: transparent;
+  margin: 0;
+}
+.hero-banner {
+  background-color: #315fa4;
+  height: 420px;
+  width: 428px;
+  margin-bottom: 20px;
+}
+
+.column:nth-child(2) {
+  height: 620px;
+}
+
+.mobile-home-page {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.square-green {
+  background-color: #1dcd79;
+  height: 220px;
+  width: 428px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.footer {
+  background-color: #c01887;
+  height: 162px;
+  width: 428px;
+}
